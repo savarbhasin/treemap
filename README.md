@@ -28,6 +28,7 @@ This library offers deep customization through:
 npm install treemap-customizable
 # or
 yarn add treemap-customizable
+```
 
 ## Basic Usage
 
